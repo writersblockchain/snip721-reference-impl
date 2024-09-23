@@ -1,2 +1,4 @@
 node_modules
-.env
+node/snip721_reference_impl.wasm
+.env*
+
